@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf034e7c.chunk.css",
+    "main.js": "/static/js/main.627fbc6b.chunk.js",
+    "main.js.map": "/static/js/main.627fbc6b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b457cc0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b457cc0.js.map",
+    "static/js/2.6c7da97a.chunk.js": "/static/js/2.6c7da97a.chunk.js",
+    "static/js/2.6c7da97a.chunk.js.map": "/static/js/2.6c7da97a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bf034e7c.chunk.css.map": "/static/css/main.bf034e7c.chunk.css.map",
+    "static/js/2.6c7da97a.chunk.js.LICENSE.txt": "/static/js/2.6c7da97a.chunk.js.LICENSE.txt",
+    "static/media/icon-caution-blue.8b1ea3f7.svg": "/static/media/icon-caution-blue.8b1ea3f7.svg",
+    "static/media/icon-mission-blue.9a3b2554.svg": "/static/media/icon-mission-blue.9a3b2554.svg",
+    "static/media/icon-recognize-blue.1929ce55.svg": "/static/media/icon-recognize-blue.1929ce55.svg",
+    "static/media/icon-resources-blue.4d6f299d.svg": "/static/media/icon-resources-blue.4d6f299d.svg",
+    "static/media/icon-rules-blue.4796ff3c.svg": "/static/media/icon-rules-blue.4796ff3c.svg",
+    "static/media/logo-inline-colour.7025b80c.svg": "/static/media/logo-inline-colour.7025b80c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b457cc0.js",
+    "static/js/2.6c7da97a.chunk.js",
+    "static/css/main.bf034e7c.chunk.css",
+    "static/js/main.627fbc6b.chunk.js"
+  ]
+}
