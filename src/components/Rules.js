@@ -14,7 +14,7 @@ class Rules extends React.Component {
             <h1 className="text-primary">Rules</h1>
             <h4 className="fw-light">Use these rules to help <span className="text-nowrap">recognize a scam.</span></h4>
           </div>
-          <div className="row row-cols-1 row-cols-md-2 g-5">
+          <div className="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5 justify-content-center">
             <div className="col">
               <h4>Do not give out personal information</h4>
               <p>Reputable companies, financial institutions, law enforcement and government agencies will NEVER ask you for your personal information, such as Social Insurance Number, bank account information, etc... If you are asked for this information by phone or other electronic means, do not provide it.</p>
