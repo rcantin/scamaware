@@ -12,7 +12,7 @@ class Resources extends React.Component {
             <h4 className="fw-light">Use these free resources to spread the word and remind yourself <span className="text-nowrap">how to stay protected.</span></h4>
           </div>
           <div className="py-5 my-5">
-            <div className="fw-lighter text-center">Content...</div>
+            <div className="fw-lighter text-center">Please check back soon for resources...</div>
           </div>
         </div>
         {/* <div className="d-flex justify-content-center align-items-center text-center flex-column bg-info text-white px-4 py-5">
