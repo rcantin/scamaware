@@ -14,16 +14,20 @@ import Donate from "./components/Donate";
 
 class App extends React.Component {
   topspacing = {
-    height: 72,
+    marginTop: 72,
   };
+  // minHeight = {
+  //   minHeight: '100%',
+  // };
 
   render() {
     return (
       <React.Fragment>
         <Router>
-          <div className="d-print-none" style={this.topspacing}></div>
-            <Nav />
-            <div className="p-4">
+          <Nav />
+          <div className="d-flex flex-column justify-content-stretch align-items-stretch h-100">
+            <div className="d-print-none" style={this.topspacing}></div>
+            <div className="flex-fill p-3">
               <ScrollToTop />
               <Switch>
                 <Route path="/" exact component={Home} />
@@ -35,7 +39,10 @@ class App extends React.Component {
                 <Route path="/donate" component={Donate} />
               </Switch>
             </div>
-            <Footer />
+            <div>
+              <Footer />
+            </div>
+          </div>
         </Router>
       </React.Fragment>
     );

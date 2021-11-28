@@ -13,9 +13,12 @@ class Home extends React.Component {
   cardsection = {
     maxWidth: 800,
   };
+  minHeight = {
+    minHeight: '100%',
+  };
   render() {
     return (
-      <div>
+      <div style={this.minHeight}>
         <div className="container pt-4">
           <div className="d-flex justify-content-center align-items-center text-center flex-column px-4">
             <div className="p-2" style={this.splashtext}>
